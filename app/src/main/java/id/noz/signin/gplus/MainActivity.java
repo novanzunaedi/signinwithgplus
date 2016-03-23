@@ -173,7 +173,7 @@ public class MainActivity extends AppCompatActivity implements
                     @Override
                     public void onResult(Status status) {
                         // [START_EXCLUDE]
-                       // updateUI(false);
+                        updateUI(false);
                         // [END_EXCLUDE]
                     }
                 });
