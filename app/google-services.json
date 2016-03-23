@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "antarcustomer",
+    "project_number": "240090781820",
+    "name": "AntarCustomer"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240090781820:android:0bbf61ef2862f7cc",
+        "client_id": "android:id.noz.signin.gplus",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "id.noz.signin.gplus",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240090781820-3da2cbm0akq89ialgd1ne7oj4j3ohp2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.noz.signin.gplus",
+            "certificate_hash": "9BF043E6976E8256D9C98CCF6E55C3D7AB0BE76B"
+          }
+        },
+        {
+          "client_id": "240090781820-0qqfp6lukkt6v7at7jesgol47t29v75o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
